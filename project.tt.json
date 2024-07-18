@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "giraffe-miniprogram",
+  "appid": "wx49b12e6a8d2d186a",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
